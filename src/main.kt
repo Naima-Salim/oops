@@ -18,10 +18,10 @@ fun main() {
     me.birthday()
 
 
-
-    var user=AnitaB("Tut", "Nyawera", "nyaweratut@gmail.com", 769523085, "Salim")
-    println(user.email)
-    println(user.password)
+    var user=AnitaB("naima", "salim", "naimaayusuff@gmail.com", 113247436, "nash")
+    var user2=AnitaB("Tut", "Nyawera", "nyaweratut@gmail.com", 769523085, "Salim")
+    println(user2.email)
+    println(user2.password)
 
 
 
